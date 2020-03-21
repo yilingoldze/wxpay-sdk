@@ -42,4 +42,9 @@ public abstract interface IWXPayDomain {
         }
     }
 
+    static void main(String[] args) {
+        //测试
+    }
 }
+
+
